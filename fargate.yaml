@@ -1,3 +1,5 @@
+The AWS CloudFormation templates creates a CI/CD pipeline for the application development workflow. 
+The template creates resources using Amazon's Code* services to build and deploy containers onto an ECS cluster as long running services
 AWSTemplateFormatVersion: 2010-09-09
 Description: An example CloudFormation template for Fargate.
 Parameters:
